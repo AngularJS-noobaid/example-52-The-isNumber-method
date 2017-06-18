@@ -1,0 +1,1 @@
+# example-52-The-isNumber-method
